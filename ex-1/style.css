@@ -1,1 +1,22 @@
-/* Start coding here */
+* {
+  box-sizing: border-box;
+}
+nav {
+  padding: 10px;
+  background-color: darkblue;
+  color: slategray;
+}
+nav h1 {
+  margin: 10px;
+}
+.card-detail {
+  background: #60626d;
+  margin: 20px;
+  width: 400px;
+}
+img {
+  display: block;
+
+  width: 80%;
+  height: 100px;
+}
