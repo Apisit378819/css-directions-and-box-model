@@ -1,1 +1,23 @@
-/* Start coding here */
+* {
+  box-sizing: border-box;
+}
+
+.lightgrey-border {
+  height: 98vh;
+  width: 99vw;
+  border: 10px solid lightgrey;
+}
+
+.black-border {
+  height: 100%;
+  width: 100%;
+  border: 10px solid black;
+}
+.crimson-border {
+  height: 100%;
+  width: 100%;
+  border: 10px solid crimson;
+  background-color: khaki;
+  display: flex;
+  justify-content: center;
+}
